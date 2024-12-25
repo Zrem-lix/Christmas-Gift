@@ -21,7 +21,7 @@ This project uses **HTML**, **CSS**, and **JavaScript**, and is designed to be b
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/christmas-gift.git
+   git clone [https://github.com/your-username/christmas-gift.git](https://github.com/Zrem-lix/Christmas-Gift.git)
    ```
 
 2. **Navigate to the Project Folder**:
